@@ -1,5 +1,5 @@
 # 💫 About Me:
-A vocational school student in<br>Bandung majoring in<br>Software Engineering.<br><br>I am highly motivated<br>to start my career<br>in the IT world and<br>develop innovative solutions,<br>particularly in the fields of<br>Data Science and AI.
+A vocational school student in<br>Bandung majoring in<br>Software Engineering.<br><br>I am highly motivated<br>to start my career<br>in the IT world and<br>develop innovative solutions,<br>particularly in the fields of<br>AI Automation Engineer.
 
 
 ## 🌐 Socials:
